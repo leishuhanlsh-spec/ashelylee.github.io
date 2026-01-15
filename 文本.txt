@@ -1,0 +1,14 @@
+线条小狗，是由韩国画师moonlab_studio创作的卡通IP，形象为一白一黄两只小狗，分别代表马尔济斯犬与小金毛犬。该IP凭借简洁的线条设计和治愈风格，通过表情包形式在社交平台传播，逐渐发展为涵盖文创衍生、品牌联名、线下展览的知名IP。
+
+字体：
+https://fonts.google.com/selection/embed
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+</style>
+
+.zcool-kuaile-regular {
+  font-family: "ZCOOL KuaiLe", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
